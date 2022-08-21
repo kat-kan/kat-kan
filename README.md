@@ -14,4 +14,4 @@ My name is Kasia. I'm a business analyst/tester. I'm from Poland, living in Wars
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
 
 # GitHub stats
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kat-kan&show_icons=true&locale=en&theme=midnight-purple" alt="ovi" /> <img align = "center" src="https://github-readme-stats.vercel.app/api?username=kat-kan&count_private=true&theme=midnight-purple" />
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kat-kan&show_icons=true&locale=en&theme=midnight-purple" alt="ovi" /> <img align = "center" src="https://github-readme-stats.vercel.app/api?username=kat-kan&count_private=true&show_icons=true&theme=midnight-purple" />
