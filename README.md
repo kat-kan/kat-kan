@@ -13,3 +13,5 @@ My name is Kasia. I'm a business analyst/tester. I'm from Poland, living in Wars
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
 
+[![@katori's Holopin board](https://holopin.me/katori)](https://holopin.io/@katori)
+
