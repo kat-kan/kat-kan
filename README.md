@@ -10,7 +10,8 @@
 
 ❤️ Hobbies: Crime books, hiking - especially in the beautiful Tatra ⛰️
 
-👍 Find me on <a href="https://www.linkedin.com/in/katarzyna-kankowska/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+👍 Currently learning: Selenium
+
 
 <img src="https://64.media.tumblr.com/2a1dfcc9f8c3e00f6ca859abb8d118ba/tumblr_n2acdyWLg51t6coabo1_500.gifv" width="200px">
 
