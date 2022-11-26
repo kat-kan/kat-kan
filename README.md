@@ -12,6 +12,10 @@
 
 👍 Currently learning: Selenium
 
+ 📚 My projects: 
+ - [Restful Booker API Tests with JUnit 5 and REST Assured](https://github.com/kat-kan/restful-booker-api-tests)
+ - [ClickUp API Postman collection](https://github.com/kat-kan/clickup-api-postman)
+ - [SWAPI API tests with TestNG and REST Assured](https://github.com/kat-kan/swapi-api-tests)
 
 <img src="https://64.media.tumblr.com/2a1dfcc9f8c3e00f6ca859abb8d118ba/tumblr_n2acdyWLg51t6coabo1_500.gifv" width="200px">
 
@@ -23,9 +27,13 @@
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Sourcetree-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-JUnit%205-informational?style=flat&&color=blueviolet)
 ![](https://img.shields.io/badge/Library-REST%20Assured-informational?style=flat&&color=blueviolet)
 ![](https://img.shields.io/badge/Library-AssertJ-informational?style=flat&&color=blueviolet)
+![](https://img.shields.io/badge/Library-TestNG-informational?style=flat&&color=blueviolet)
+![](https://img.shields.io/badge/Library-Allure-informational?style=flat&&color=blueviolet)
 
+#hacktoberfest2022
 [![@katori's Holopin board](https://holopin.me/katori)](https://holopin.io/@katori)
 
