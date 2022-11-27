@@ -10,7 +10,7 @@
 
 ❤️ Hobbies: Crime books, hiking - especially in the beautiful Tatra ⛰️
 
-👍 Currently learning: Selenium
+👍 Currently learning: Selenium. List of my other [learning activities in 2022](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
 
  📚 My projects: 
  - [Restful Booker API Tests with JUnit 5 and REST Assured](https://github.com/kat-kan/restful-booker-api-tests)
@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Framework-JUnit%205-informational?style=flat&&color=blueviolet)
 ![](https://img.shields.io/badge/Library-REST%20Assured-informational?style=flat&&color=blueviolet)
 ![](https://img.shields.io/badge/Library-AssertJ-informational?style=flat&&color=blueviolet)
-![](https://img.shields.io/badge/Library-TestNG-informational?style=flat&&color=blueviolet)
+![](https://img.shields.io/badge/Framework-TestNG-informational?style=flat&&color=blueviolet)
 ![](https://img.shields.io/badge/Library-Allure-informational?style=flat&&color=blueviolet)
 
 #hacktoberfest2022
