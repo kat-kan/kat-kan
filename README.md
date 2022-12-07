@@ -1,12 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://komarev.com/ghpvc/?username=kat-kan&color=blueviolet" alt="watching_count" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8a2be2&width=435&lines=Junior+Automation+Tester;Experienced+Business+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8a2be2&width=435&lines=Junior+Automation+Tester)](https://git.io/typing-svg)
 
 😇 Name : Kasia (EN: Kate)
 
 🌍 Poland, Warsaw
 
-💻 8 years in IT with different roles
+💻 Working in IT since 2013 as tester, business analyst, product owner -> [My professional experience](#professional-experience)
 
 ❤️ Hobbies: Crime books, hiking - especially in the beautiful Tatra ⛰️
 
@@ -33,6 +33,17 @@
 ![](https://img.shields.io/badge/Library-AssertJ-informational?style=flat&&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-TestNG-informational?style=flat&&color=blueviolet)
 ![](https://img.shields.io/badge/Library-Allure-informational?style=flat&&color=blueviolet)
+
+## Professional experience
+
+My adventure in IT started in July **2013** with internship in IT Consulting Department in AMG.net company. I applied mainly because of the interest in the real estate market (and one of the projects that needed help was strictly related) but soon I got really dragged into IT world. I spent ~4 years in this company working in multiple projects that concerned many areas: real estate market, customs, finance, UE fundings. My responsibilities included:
+* day-to-day contact with developers and customers
+* analyzing the requirements
+* testing the applications
+* preparing the documentation
+* resolving support tickets. 
+
+In my last project I worked on daily basis with SQL, querying the database and preparing repair scripts.
 
 #hacktoberfest2022
 [![@katori's Holopin board](https://holopin.me/katori)](https://holopin.io/@katori)
