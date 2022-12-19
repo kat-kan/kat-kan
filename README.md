@@ -12,10 +12,10 @@
 
 👍 Currently learning: Selenium. List of my other [learning activities in 2022](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
 
- 📚 My projects: 
- - [Restful Booker API Tests with JUnit 5 and REST Assured](https://github.com/kat-kan/restful-booker-api-tests)
- - [ClickUp API Postman collection](https://github.com/kat-kan/clickup-api-postman)
- - [SWAPI API tests with TestNG and REST Assured](https://github.com/kat-kan/swapi-api-tests)
+ 📚 My test automation projects: 
+ - [Restful Booker API Tests](https://github.com/kat-kan/restful-booker-api-tests) Automated API tests for RestfulBooker - Web API playground made for learning purposes. Tests were written from scratch by myself using a.o. Java 17, JUnit 5 and REST Assured. 
+ - [ClickUp API Postman collection](https://github.com/kat-kan/clickup-api-postman) Postman collection of requests to ClickUp API created during the learning process. Includes dynamic variables, tests in JavaScript, Postman environment and some real API bugs that I reported to ClickUp crew.
+ - [SWAPI API tests](https://github.com/kat-kan/swapi-api-tests) Automated API tests for Star Wars API. This project was started in 2020 with JUnit, in 2022 I decided to continue and migrate it to TestNG and Java 17. I also integrated Allure reports generation in Github Actions.
 
 <img src="https://64.media.tumblr.com/2a1dfcc9f8c3e00f6ca859abb8d118ba/tumblr_n2acdyWLg51t6coabo1_500.gifv" width="200px">
 
