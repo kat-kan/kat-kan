@@ -36,14 +36,21 @@
 
 ## Professional experience
 
-My adventure in IT started in July **2013** with internship in IT Consulting Department in AMG.net company. I applied mainly because of the interest in the real estate market (and one of the projects that needed help was strictly related) but soon I got really dragged into IT world. I spent ~4 years in this company working in multiple projects that concerned many areas: real estate market, customs, finance, UE fundings. My responsibilities included:
+My adventure in IT started in July **2013** with internship in IT Consulting Department in AMG.net company. I applied mainly because of the interest in the real estate market (and one of the projects that needed help was strictly related) but soon I got really dragged into IT world. I spent ~4 years in this company working in multiple projects that concerned many areas: real estate market, customs, finance, EU fundings. My responsibilities included:
 * day-to-day contact with developers and customers
 * analyzing the requirements
 * testing the applications
 * preparing the documentation
-* resolving support tickets. 
+* resolving support tickets
+* in my last project I worked on daily basis with SQL, querying the database and preparing repair scripts.
 
-In my last project I worked on daily basis with SQL, querying the database and preparing repair scripts.
+In my next company I switched to private sector and projects related to pharmaceutical industry. Apart from functional testing and business analysis, I gained some new experiences:
+* working in the international team
+* API testing with Postman and Swagger
+* working in Scrum team
+* writing user stories, managing backlog
+* leading refinement sessions for bigger audience 
+* carrying Product Owner's role for few months.
 
 #hacktoberfest2022
 [![@katori's Holopin board](https://holopin.me/katori)](https://holopin.io/@katori)
