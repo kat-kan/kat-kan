@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://komarev.com/ghpvc/?username=kat-kan&color=blueviolet" alt="watching_count" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8a2be2&width=435&lines=Junior+Automation+Tester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8a2be2&width=435&lines=<3+Test+Automation+<3)](https://git.io/typing-svg)
 
 😇 Name : Kasia (EN: Kate)
 
