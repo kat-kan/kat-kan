@@ -10,7 +10,7 @@
 
 ❤️ Hobbies: Crime books, hiking - especially in the beautiful Tatra ⛰️
 
-👍 Currently learning: Selenium. List of my other [learning activities in 2022](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
+👍 Currently learning: Selenium (Page Factory). List of my other [learning activities in 2022](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
 
  📚 My test automation projects: 
 
