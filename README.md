@@ -4,17 +4,13 @@
 
 😇 Name : Kasia (EN: Kate)
 
-🌍 Poland, Warsaw
-
 💻 Working in IT since 2013 as tester, business analyst, product owner -> [My professional experience](#professional-experience)
 
-❤️ Hobbies: Crime books, hiking - especially in the beautiful Tatra ⛰️
-
-👍 Currently learning: Selenium (Page Factory). List of my other [learning activities in 2022](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
+👍 Currently learning: Playwright. List of my other [learning activities](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
 
  📚 My test automation projects: 
 
-  - [Fakestore Selenium Tests]( https://github.com/kat-kan/fakestore-selenium-tests) Automated UI tests for Fakestore, still bein developed. Use Page Object Model. Stack: Java 17, Selenium Webdriver, Maven, Junit 5
+  - [Fakestore Selenium Tests]( https://github.com/kat-kan/fakestore-selenium-tests) Automated UI tests for Fakestore. Page Object Model, Page Factory. Stack: Java 19, Selenium Webdriver, Maven, Junit 5
  - [Restful Booker API Tests](https://github.com/kat-kan/restful-booker-api-tests) Automated API tests for RestfulBooker - Web API playground made for learning purposes. Tests were written from scratch by myself using a.o. Java 17, JUnit 5 and REST Assured. 
  - [ClickUp API Postman collection](https://github.com/kat-kan/clickup-api-postman) Postman collection of requests to ClickUp API created during the learning process. Includes dynamic variables, tests in JavaScript, Postman environment and some real API bugs that I reported to ClickUp crew.
  - [SWAPI API tests](https://github.com/kat-kan/swapi-api-tests) Automated API tests for Star Wars API. This project was started in 2020 with JUnit, in 2022 I decided to continue and migrate it to TestNG and Java 17. I also integrated Allure reports generation in Github Actions.
