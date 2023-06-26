@@ -6,7 +6,9 @@
 
 💻 Working in IT since 2013 as tester, business analyst, product owner -> [My professional experience](#professional-experience)
 
-👍 Currently learning: Playwright. List of my other [learning activities](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
+🚀 Goal : become test automation specialist. Deliver value by mixing business, testing and technical skills!
+
+👍 Currently learning: Playwright. Check my other [learning activities](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
 
  📚 My test automation projects: 
 
