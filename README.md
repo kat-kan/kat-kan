@@ -8,7 +8,7 @@
 
 🚀 Goal : become test automation specialist. Deliver value by mixing business, testing and technical skills!
 
-👍 Currently learning: Playwright. Check my other [learning activities](https://github.com/kat-kan/2022-activities/blob/main/2022-activities.md)
+👍 Currently learning: Playwright. Check my other [learning activities](https://github.com/kat-kan/learning-activities/blob/main/learning-activities.md)
 
  📚 My test automation projects: 
 
