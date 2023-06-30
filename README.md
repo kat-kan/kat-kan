@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8a2be2&width=435&lines=<3+Test+Automation+<3)](https://git.io/typing-svg)
 
-😇 Name : Kasia (EN: Kate)
+😇 Name : Kasia (EN: Kate) <img align="right" src="https://64.media.tumblr.com/2a1dfcc9f8c3e00f6ca859abb8d118ba/tumblr_n2acdyWLg51t6coabo1_500.gifv" width="200px">
 
 💻 Working in IT since 2013 as tester, business analyst, product owner -> [My professional experience](#professional-experience)
 
@@ -17,7 +17,11 @@
  - [ClickUp API Postman collection](https://github.com/kat-kan/clickup-api-postman) Postman collection of requests to ClickUp API created during the learning process. Includes dynamic variables, tests in JavaScript, Postman environment and some real API bugs that I reported to ClickUp crew.
  - [SWAPI API tests](https://github.com/kat-kan/swapi-api-tests) Automated API tests for Star Wars API. This project was started in 2020 with JUnit, in 2022 I decided to continue and migrate it to TestNG and Java 17. I also integrated Allure reports generation in Github Actions.
 
-<img src="https://64.media.tumblr.com/2a1dfcc9f8c3e00f6ca859abb8d118ba/tumblr_n2acdyWLg51t6coabo1_500.gifv" width="200px">
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** | Description |
+| - | - | - |
+|![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | [![swapi-api-tests](https://img.shields.io/static/v1?label=&message=swapi-api-tests&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kat-kan/swapi-api-tests) | |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
 
