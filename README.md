@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://komarev.com/ghpvc/?username=kat-kan&color=blueviolet" alt="watching_count" />
+# Hi, I'm happy to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://komarev.com/ghpvc/?username=kat-kan&color=blueviolet" alt="watching_count" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8a2be2&width=435&lines=<3+Test+Automation+<3)](https://git.io/typing-svg)
 
@@ -6,21 +6,22 @@
 
 💻 Working in IT since 2013 as tester, business analyst, product owner -> [My professional experience](#professional-experience)
 
-🚀 Goal : become test automation specialist. Deliver value by mixing business, testing and technical skills!
+🚀 Goal : I aim to become test automation specialist. I want to deliver value by mixing business, testing and technical skills!
 
 👍 Currently learning: Playwright. Check my other [learning activities](https://github.com/kat-kan/learning-activities/blob/main/learning-activities.md)
 
  📚 My test automation projects: 
 
-  - [Fakestore Selenium Tests]( https://github.com/kat-kan/fakestore-selenium-tests) Automated UI tests for Fakestore. Page Object Model, Page Factory. Stack: Java 19, Selenium Webdriver, Maven, Junit 5
- - [Restful Booker API Tests](https://github.com/kat-kan/restful-booker-api-tests) Automated API tests for RestfulBooker - Web API playground made for learning purposes. Tests were written from scratch by myself using a.o. Java 17, JUnit 5 and REST Assured. 
- - [ClickUp API Postman collection](https://github.com/kat-kan/clickup-api-postman) Postman collection of requests to ClickUp API created during the learning process. Includes dynamic variables, tests in JavaScript, Postman environment and some real API bugs that I reported to ClickUp crew.
- - [SWAPI API tests](https://github.com/kat-kan/swapi-api-tests) Automated API tests for Star Wars API. This project was started in 2020 with JUnit, in 2022 I decided to continue and migrate it to TestNG and Java 17. I also integrated Allure reports generation in Github Actions.
+  - [Fakestore Selenium Tests]( https://github.com/kat-kan/fakestore-selenium-tests) Automated UI tests for Fakestore with **Page Object Model** and **Page Factory**
+ - [Restful Booker API Tests](https://github.com/kat-kan/restful-booker-api-tests) Automated API tests for RestfulBooker (Web API playground made for learning purposes)
+ - [ClickUp API Postman collection](https://github.com/kat-kan/clickup-api-postman) Postman collection of requests to ClickUp API (with test scripts)
+ - [SWAPI API tests](https://github.com/kat-kan/swapi-api-tests) Automated API tests for Star Wars API. Test report generated with Github Actions
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** | Description |
-| - | - | - |
-|![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | [![swapi-api-tests](https://img.shields.io/static/v1?label=&message=swapi-api-tests&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kat-kan/swapi-api-tests) | |
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - | 
+|![Java](https://img.shields.io/badge/Java-grey?style=flat&logo=openjdk&logoColor=orange) | [![fakestore-selenium-tests](https://img.shields.io/static/v1?label=&message=fakestore-selenium-tests&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kat-kan/fakestore-selenium-tests) [![restful-booker-api-tests](https://img.shields.io/static/v1?label=&message=restful-booker-api-tests&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kat-kan/restful-booker-api-tests)[![swapi-api-tests](https://img.shields.io/static/v1?label=&message=swapi-api-tests&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kat-kan/swapi-api-tests) |
+|![JUnit](https://img.shields.io/badge/JUnit-grey?style=flat&logo=junit5&logoColor=#25A162) | [![fakestore-selenium-tests](https://img.shields.io/static/v1?label=&message=fakestore-selenium-tests&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kat-kan/fakestore-selenium-tests) [![restful-booker-api-tests](https://img.shields.io/static/v1?label=&message=restful-booker-api-tests&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kat-kan/restful-booker-api-tests)|
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
