@@ -8,6 +8,16 @@
 
 🚀 Goal : I aim to become test automation specialist. I want to deliver value by mixing business, testing and technical skills!
 
+ 👉 **What value can I add to YOUR TEAM as automation tester and former business analyst?**  👈
+ 
+ ✨ Excellent understanding of product and requirements -> Good choice of tests to automate
+ 
+ ✨ Sharp analytical skills -> I enjoy solving different problems - like debugging of failing tests
+ 
+ ✨ Proven communication skills -> I can discuss tech stuff with devs as well as present some topics to the customer
+ 
+ ✨ Constantly expanding tech skills -> I just really like learning!
+
 👍 Currently learning: Playwright. Check my other [learning activities](https://github.com/kat-kan/learning-activities/blob/main/learning-activities.md)
 
  📚 My test automation projects: 
