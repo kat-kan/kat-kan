@@ -4,7 +4,7 @@
 
 😇 Name : Kasia (EN: Kate) <img align="right" src="https://64.media.tumblr.com/2a1dfcc9f8c3e00f6ca859abb8d118ba/tumblr_n2acdyWLg51t6coabo1_500.gifv" width="200px">
 
-💻 Working in IT since 2013 as tester, business analyst, product owner -> [My professional experience](#professional-experience)
+💻 Working in IT since 2013 as test automation engineer, tester, business analyst, product owner -> [My professional experience](#professional-experience)
 
 🚀 Goal : I aim to become test automation specialist. I want to deliver value by mixing business, testing and technical skills!
 
@@ -67,6 +67,6 @@ In my next company I switched to private sector and projects related to pharmace
 * leading refinement sessions for bigger audience 
 * carrying Product Owner's role for few months.
 
-#hacktoberfest2022
+I am a fan and participant of [Hacktoberfest](https://hacktoberfest.com/) events (2022, 2023)
 [![@katori's Holopin board](https://holopin.me/katori)](https://holopin.io/@katori)
 
